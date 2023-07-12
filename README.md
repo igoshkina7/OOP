@@ -23,6 +23,6 @@
 
 **СБОРКА**
 в папке с лабой 
-.vs/Igoshkina_oop_lb1/v16/ipch/Autopch  
+.vs/Igoshkina_oop_lb1/v16/ipch/AutoPCH  
 в v16 два файла и папка ipch
-в папке ipch 8 папок, в каждой из которых файл ipch
+в папке AutoPCH 8 папок, в каждой из которых файл ipch
